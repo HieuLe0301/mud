@@ -1,0 +1,12 @@
+The Bar
+A smokey run-down Jazz Bar in the middle of this dystopia. As the pungent odor permeates the space, the barflies cheer to yet another contemptuous "glory" of theirs. 
+The Square,The Yard
+sword-10-3,hammer-5-1,chair-7-7
+The Square
+Spacious. Exposed. Daylight. However imposing the skyscrappers surrounding are, one need not look any further than the small filthy alleys of this dystopian city should they be looking for a raucous brawl.    
+The Bar,The Yard
+machette-13-5,chair-7-7
+The Yard
+A scrapyard to be more exact. Wastes from all corners of this dystopia have piled up here, begetting this obnoxious scene. 
+The Square
+rake-17-8
